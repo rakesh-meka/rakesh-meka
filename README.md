@@ -1,61 +1,61 @@
-# Hi, I'm Rakesh Meka 👋  
-### Entry-Level Machine Learning Engineer | AI Intern @ Infosys | Data Analyst
+# 👋 Hi, I’m Rakesh Meka
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakesh-meka&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/rakesh-meka?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/rakesh-meka?label=Stars&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/rakesh-meka?style=social)
 
 ---
 
-## 👨‍💻 Professional Summary
-Entry-level **Machine Learning Engineer** with hands-on experience in building **end-to-end supervised ML pipelines**, including data preprocessing, feature engineering, model training, and evaluation using **Python and Scikit-learn**. Strong foundation in **regression, classification, EDA**, and **model performance metrics**. Currently working as an **AI Intern at Infosys**, with prior industry experience as a **Data Analyst**, delivering data-driven insights through dashboards and analytics.
+## 🚀 About Me
+I’m someone who enjoys **building logic before building models**.  
+My interest lies in understanding how data behaves, how patterns emerge, and how machine learning models can be made both **accurate and explainable**.
+
+I currently work with **Python, data analysis, and machine learning fundamentals**, focusing on writing clean code, experimenting with models, and improving results through feature engineering and evaluation. I believe strong basics, consistent practice, and real-world thinking matter more than shortcuts.
+
+I use GitHub as a **daily learning log** — to practice, experiment, break things, and improve.
 
 ---
 
-## 💼 Experience
-**AI Intern – Infosys** *(Jul 2025 – Present)*  
-- Built and evaluated machine learning models using Python and Scikit-learn  
-- Worked on data preprocessing, feature engineering, and model tuning  
-- Followed ML best practices and version control using Git  
-- Gained exposure to ML deployment workflows (Flask / Streamlit – basics)
-
-**Data Analyst – Hail Cabs** *(Nov 2022 – Jan 2024)*  
-- Designed interactive **Power BI dashboards** to track KPIs and operational metrics  
-- Performed SQL-based data extraction, transformation, and validation  
-- Developed DAX measures and optimized data models for business insights  
-- Supported decision-making through ad-hoc analysis and reporting
-
----
-
-## 🧠 Skills
-**Programming & Core CS:** Python, Data Structures & Algorithms, OOP, SQL, SDLC  
-**Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation, Cross-Validation  
-**Data & Analytics:** Pandas, NumPy, EDA, Data Visualization, Power BI, DAX, Power Query  
-**Databases:** MySQL, SQL Server  
-**Tools:** Scikit-learn, Git, GitHub, Jupyter Notebook  
-**Cloud:** Basic exposure to AWS / Azure ML services  
+## 🧠 What I Work With
+- **Programming:** Python, SQL  
+- **Machine Learning:** Regression, Classification, Model Evaluation  
+- **Data Handling:** Pandas, NumPy, EDA, Data Cleaning  
+- **Visualization & BI:** Power BI, DAX, Charts & Dashboards  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+- **Concepts I focus on:**  
+  - Feature Engineering  
+  - Overfitting vs Underfitting  
+  - Model interpretability  
+  - Writing reusable, readable code  
 
 ---
 
-## 📌 Projects
-**Customer Churn Prediction (ML)**  
-- Built ML models (Logistic Regression, Decision Tree)  
-- Identified churn drivers using feature engineering  
+## 📌 What You’ll Find Here
+- 📂 Python fundamentals & logic-building programs  
+- 📊 Data analysis notebooks with real datasets  
+- 🤖 Machine learning projects built step by step  
+- 🧪 Experiments with model tuning and evaluation  
+- 📝 Clean documentation and learning notes  
 
-**House Price Prediction (Regression)**  
-- Developed end-to-end ML pipeline with EDA and preprocessing  
-- Applied Random Forest & Gradient Boosting with hyperparameter tuning  
-
----
-
-## 🎓 Certifications
-- Infosys Certified Python Associate  
-- Meta Data Analyst Professional Certificate  
+This profile is not about showing *everything* — it’s about showing **progress and consistency**.
 
 ---
 
-## 📫 Connect With Me
-- 📍 Hyderabad, India  
-- 🔗 LinkedIn: https://linkedin.com/in/rakeshmeka  
+## 📈 GitHub Activity
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-meka&show_icons=true&theme=default)
+
+---
+
+## 🎯 Current Focus
+- Strengthening ML fundamentals  
+- Improving problem-solving speed  
+- Writing better project documentation  
+- Building projects that reflect real-world use cases  
+
+---
+
+## 🤝 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/rakeshmeka  
 - 💻 GitHub: https://github.com/rakesh-meka  
-- 📧 Email: rakeshmeka.work@gmail.com
+- 📧 Email: rakeshmeka.work@gmail.com  
+
+> *“Learning never stops — it only compounds.”*
