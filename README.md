@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Rakesh Meka
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakesh-meka&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/rakesh-meka?style=social)
 
 ---
 
@@ -37,13 +36,6 @@ I use GitHub as a **daily learning log** — to practice, experiment, break thin
 - 📝 Clean documentation and learning notes  
 
 This profile is not about showing *everything* — it’s about showing **progress and consistency**.
-
----
-
-## 📈 GitHub Activity
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-meka&show_icons=true&theme=default)
-
----
 
 ## 🎯 Current Focus
 - Strengthening ML fundamentals  
