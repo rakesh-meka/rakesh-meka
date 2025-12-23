@@ -84,7 +84,7 @@ AI Intern with hands-on experience in **Python, Machine Learning, and Data Analy
 <img width="12"/>
 
 <!-- Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" alt="AWS"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
 
