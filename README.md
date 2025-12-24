@@ -27,7 +27,7 @@
 
 <p align="left">
 
-AI Intern with hands-on experience in **Python, Machine Learning, and Data Analytics**. Skilled in building **end-to-end ML pipelines** and **interactive Power BI dashboards** using real-world data. Strong in **EDA, feature engineering, model evaluation** and translating data into actionable insights.
+Data and ML professional with 2+ years of overall experience, including 1+ year in Data Analytics. Skilled in Python, SQL, Machine Learning, EDA, feature engineering, and model evaluation. Hands-on experience building end-to-end ML pipelines and interactive Power BI dashboards, delivering data-driven insights to support business and operational decisions.
 
 ###
 
