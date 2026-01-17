@@ -27,7 +27,7 @@
 
 <p align="left">
 
-Data and ML professional with 2+ years of experience. Skilled in Python, SQL,Data Analytics, Machine Learning, EDA, feature engineering, and model evaluation. Hands-on experience building end-to-end ML pipelines and interactive Power BI dashboards, delivering data-driven insights to support business and operational decisions.
+Data and ML professional with 2+ years of experience. Skilled in Python, SQL,Power BI,Data Analytics, Machine Learning, feature engineerin and model evaluation. Hands-on experience building end-to-end ML pipelines and interactive Power BI dashboards, delivering data-driven insights to support business and operational decisions.
 
 ###
 
