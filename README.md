@@ -27,7 +27,7 @@
 
 <p align="left">
 
-Data and ML professional with 2+ years of experience. Skilled in Python,SQL,Power BI,Data Analytics, Python Libraries, Machine Learning, feature engineerin and model evaluation. Delivering data-driven insights to support business and operational decisions.
+Data and ML professional with 2+ years of experience. Skilled in Python,SQL,Power BI, Data Analytics, Libraries,Machine Learning,feature engineering and model evaluation. Delivering data-driven insights to support business and operational decisions.
 
 ###
 
