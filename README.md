@@ -27,8 +27,11 @@
 
 <p align="left">
 
-Data and ML professional with 2+ years of experience. Skilled in Python,SQL,Power BI, Data Analytics, Libraries,Machine Learning,feature engineering and model evaluation. Delivering data-driven insights to support business and operational decisions.
+Hi, I’m Rakesh Meka — a passionate Data Analyst & AI Enthusiast with 2+ years of hands-on experience in data analysis and applied artificial intelligence. I enjoy turning raw data into meaningful insights and building practical machine learning solutions with real-world impact.
 
+I have strong experience working with Python, Pandas, NumPy, and PyTorch, along with exposure to computer vision and end-to-end ML workflows — from data preprocessing and feature engineering to model building and evaluation. I’m continuously learning and sharpening my skills to grow into an ML / AI Engineer role.
+
+I believe in writing clean, scalable code, understanding the why behind models, and building systems that are simple, efficient, and production-ready. This GitHub repository reflects my learning journey, interview-focused concepts, and practical implementations.
 ###
 
 <h3 align="left">🛠️ Languages, Tools & Technologies</h3>
