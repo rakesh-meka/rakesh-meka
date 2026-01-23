@@ -29,9 +29,9 @@
 
 A passionate Data Analyst & AI Enthusiast with 2+ years of hands-on experience in data analysis and applied artificial intelligence. I enjoy turning raw data into meaningful insights and building practical machine learning solutions with real-world impact.
 
-I have strong experience working with Python, Pandas, NumPy, and PyTorch, along with exposure to computer vision and end-to-end ML workflows — from data preprocessing and feature engineering to model building and evaluation. I’m continuously learning and sharpening my skills to grow into an ML / AI Engineer role.
+I have strong experience working with Python, Pandas, NumPy,Seaborn, Sciket-learn and PyTorch, along with exposure to computer vision and end-to-end ML workflows — from data preprocessing and feature engineering to model building and evaluation. I’m continuously learning and sharpening my skills to grow into an ML / AI Engineer role.
 
-I believe in writing clean, scalable code, understanding the why behind models, and building systems that are simple, efficient, and production-ready. This GitHub repository reflects my learning journey, interview-focused concepts, and practical implementations.
+I believe in writing clean, scalable code, understanding the why behind models and building systems that are simple, efficient and production-ready. 
 ###
 
 <h3 align="left">🛠️ Languages, Tools & Technologies</h3>
