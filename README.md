@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Hey! I'm Rakesh  </h2>
+<h2 align="left">Hi, I'm Rakesh  </h2>
 
 ###
 
