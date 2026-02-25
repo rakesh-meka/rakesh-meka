@@ -29,7 +29,7 @@
 
 A passionate Data Analyst & AI Enthusiast with 2+ years of hands-on experience in data analysis and applied artificial intelligence. I enjoy turning raw data into meaningful insights and building practical machine learning solutions with real-world impact.
 
-I have strong hands-on experience with Python and key data science and machine learning libraries including Pandas, NumPy, Seaborn, Scikit-learn and PyTorch. My expertise spans the end-to-end ML lifecycle, from data preprocessing, exploratory data analysis, and feature engineering to model development, training, evaluation, and optimization. I have practical exposure to computer vision applications and a solid understanding of machine learning algorithms, performance metrics, and real-world deployment considerations. I am continuously upskilling to grow as a Data Scientist and AI/ML Engineer, focused on building scalable, reliable, and production-ready intelligent systems.
+I have strong hands-on experience with Python and key data science and machine learning libraries including Pandas, NumPy, Seaborn, Scikit-learn and PyTorch. My expertise spans the end-to-end ML lifecycle, from data preprocessing, exploratory data analysis, and feature engineering to model development, training, evaluation and optimization. I have practical exposure to computer vision applications and a solid understanding of machine learning algorithms, performance metrics, and real-world deployment considerations. I am continuously upskilling to grow as a Data Scientist and AI/ML Engineer, focused on building scalable, reliable, and production-ready intelligent systems.
 
 ###
 
