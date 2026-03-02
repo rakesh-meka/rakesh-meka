@@ -98,5 +98,5 @@ I have strong hands-on experience with Python and key data science and machine l
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h4 align="center">
-💡 Building AI solutions | 📈 Data-driven mindset | 🚀 Continuous learner
+💡 Building AI solutions | 📈 Data-driven mindset | 🚀 Continuous learner!
 </h4>
