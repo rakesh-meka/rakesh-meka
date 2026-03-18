@@ -27,10 +27,16 @@
 
 <p align="left">
 
-A passionate Data Scientist & AI Enthusiast with 2+ years of hands-on experience in data analysis and applied artificial intelligence. I enjoy turning raw data into meaningful insights and building practical machine learning solutions with real-world impact.
+A Machine Learning Engineer with 2+ years of experience in data analytics, predictive modeling, and building practical AI solutions. I specialize in transforming raw data into meaningful insights and developing end-to-end machine learning pipelines that solve real-world problems.
 
-I have strong hands-on experience with Python and key data science and machine learning libraries including Pandas, NumPy, Seaborn, Scikit-learn and PyTorch. My expertise spans the end-to-end ML lifecycle, from data preprocessing, exploratory data analysis, and feature engineering to model development, training, evaluation and optimization. I have practical exposure to computer vision applications and a solid understanding of machine learning algorithms, performance metrics, and real-world deployment considerations. I am continuously upskilling to grow as a Data Scientist and AI/ML Engineer, focused on building scalable, reliable, and production-ready intelligent systems.
+I have hands-on experience with Python, SQL, and core ML libraries such as Pandas, NumPy, and Scikit-learn, along with exposure to Generative AI applications including Retrieval-Augmented Generation (RAG) using LangChain and OpenAI APIs. I have also worked on integrating AI capabilities into applications through APIs and exploring deployment using tools like Docker.
 
+My work focuses on building reliable, scalable, and interpretable solutions — from data preprocessing and feature engineering to model development and evaluation. I am currently expanding my expertise in LLM-based systems, AI agents, and backend integration, with the goal of transitioning into an AI Developer role.
+
+I value clean, maintainable code, continuous learning, and a strong understanding of the fundamentals behind machine learning systems to build efficient and production-ready applications.
+
+📧 rakeshmeka.work@gmail.com
+🤝 Open to opportunities in AI / Machine Learning / GenAI / Data Scientist roles
 ###
 
 <h3 align="left">🛠️ Languages, Tools & Technologies</h3>
