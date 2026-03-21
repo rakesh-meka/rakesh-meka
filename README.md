@@ -36,6 +36,7 @@ My work focuses on building reliable, scalable, and interpretable solutions — 
 I value clean, maintainable code, continuous learning, and a strong understanding of the fundamentals behind machine learning systems to build efficient and production-ready applications.
 
 📧 rakeshmeka.work@gmail.com
+
 🤝 Open to opportunities in AI / Machine Learning / GenAI / Data Scientist roles
 ###
 
