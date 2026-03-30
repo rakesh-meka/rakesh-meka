@@ -1,27 +1,17 @@
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
   <img align="right" alt="ai-coding" width="160" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rakeshmeka/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rakesh-meka&left_color=darkslategrey&right_color=yellowgreen"/>
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Rakesh Meka</h1>
 
-<h2 align="left">Hi, I'm Rakesh  </h2>
-
-###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
@@ -35,10 +25,43 @@ My work focuses on building reliable, scalable, and interpretable solutions — 
 
 I value clean, maintainable code, continuous learning, and a strong understanding of the fundamentals behind machine learning systems to build efficient and production-ready applications.
 
-📧 rakeshmeka.work@gmail.com
+## 📈 GitHub Stats
 
-🤝 Open to opportunities in AI / Machine Learning / GenAI / Data Scientist roles
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh-meka&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-meka&theme=radical" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Advanced LLM Architectures  
+- 🤖 Autonomous AI Agents  
+- ⚡ System Design for AI Applications  
+
+---
+
+## 🤝 Open To Opportunities
+
+💼 Roles: **AI Engineer | Machine Learning Engineer | Data Scientist**  
+📍 Location: India (Open to relocation / remote)
+
+---
+
+## 💡 Motto
+
+> "Building intelligent systems that solve real-world problems."
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: rakeshmeka.work@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/rakeshmeka  
+
+---
 
 <h3 align="left">🛠️ Languages, Tools & Technologies</h3>
 
