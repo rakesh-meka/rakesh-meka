@@ -17,7 +17,7 @@
 
 <p align="left">
 
-I have 2+ years of experience in data analytics, predictive modeling and building practical AI solutions. I specialize in transforming raw data into meaningful insights and developing end-to-end machine learning pipelines that solve real-world problems.
+I have 3 years of experience in data analytics, predictive modeling and building practical AI solutions. I specialize in transforming raw data into meaningful insights and developing end-to-end machine learning pipelines that solve real-world problems.
 
 I have hands-on experience with Python, SQL, and core ML libraries such as Pandas, NumPy, and Scikit-learn, along with exposure to Generative AI applications including Retrieval-Augmented Generation (RAG) using LangChain and OpenAI APIs. I have also worked on integrating AI capabilities into applications through APIs and exploring deployment using tools like Docker.
 
