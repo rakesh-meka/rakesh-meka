@@ -25,16 +25,6 @@ My work focuses on building reliable, scalable, and interpretable solutions — 
 
 I value clean, maintainable code, continuous learning, and a strong understanding of the fundamentals behind machine learning systems to build efficient and production-ready applications.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh-meka&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-meka&theme=radical" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - 🧠 Advanced LLM Architectures  
@@ -47,12 +37,6 @@ I value clean, maintainable code, continuous learning, and a strong understandin
 
 💼 Roles: **AI Engineer | Machine Learning Engineer | Data Scientist**  
 📍 Location: India (Open to relocation / remote)
-
----
-
-## 💡 Motto
-
-> "Building intelligent systems that solve real-world problems."
 
 ---
 
