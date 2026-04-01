@@ -17,13 +17,23 @@
 
 <p align="left">
 
-I have 3 years of experience in data analytics, predictive modeling and building practical AI solutions. I specialize in transforming raw data into meaningful insights and developing end-to-end machine learning pipelines that solve real-world problems.
+Hi, I’m Rakesh.
 
-I have hands-on experience with Python, SQL, and core ML libraries such as Pandas, NumPy, and Scikit-learn, along with exposure to Generative AI applications including Retrieval-Augmented Generation (RAG) using LangChain and OpenAI APIs. I have also worked on integrating AI capabilities into applications through APIs and exploring deployment using tools like Docker.
+I don’t just train models — I build systems that actually work in the real world.
 
-My work focuses on building reliable, scalable, and interpretable solutions — from data preprocessing and feature engineering to model development and evaluation. I am currently expanding my expertise in LLM-based systems, AI agents, and backend integration, with the goal of transitioning into an AI Developer role.
+Over the past few years, I’ve been working at the intersection of data science and applied AI, focusing less on ideal datasets and more on messy, production-grade problems. I care about outcomes, not just metrics — because a model with great accuracy is useless if it can’t be deployed, scaled, or trusted.
 
-I value clean, maintainable code, continuous learning, and a strong understanding of the fundamentals behind machine learning systems to build efficient and production-ready applications.
+My core foundation is in building end-to-end ML pipelines using Python, Pandas, NumPy, and Scikit-learn, along with strong SQL for working directly at the data source. I’ve handled the full lifecycle — from data exploration and feature engineering to model development, evaluation, and iteration.
+
+More recently, I’ve been focused on Generative AI and LLM-based systems. I’ve built RAG pipelines using LangChain and OpenAI APIs, designed to not just retrieve information but reason over context. I’ve taken these systems beyond notebooks — exposing them via REST APIs, and exploring containerized deployments using Docker.
+
+What excites me most is the engineering side of AI — designing systems that are reliable, scalable, and maintainable. I spend a lot of time thinking about failure cases, latency, and how different components interact in production. That’s where the real complexity is.
+
+I write clean, readable code because I’ve seen what happens when systems grow without discipline. I document decisions, refactor when needed, and aim to build things that others (including future me) can understand and extend.
+
+Outside of work, I experiment a lot — building small tools, exploring agent architectures, and breaking down how real-world AI systems are structured. Curiosity, for me, isn’t optional — it’s part of how I work.
+
+If you’re working on problems where data, ML, and systems engineering come together, I’m always open to connecting.
 
 ## 🌱 Currently Learning
 
