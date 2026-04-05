@@ -19,21 +19,28 @@
 
 Hi, I’m Rakesh.
 
-I don’t just train models — I build systems that actually work in the real world.
-
-Over the past few years, I’ve been working at the intersection of data science and applied AI, focusing less on ideal datasets and more on messy, production-grade problems. I care about outcomes, not just metrics — because a model with great accuracy is useless if it can’t be deployed, scaled, or trusted.
-
-My core foundation is in building end-to-end ML pipelines using Python, Pandas, NumPy, and Scikit-learn, along with strong SQL for working directly at the data source. I’ve handled the full lifecycle — from data exploration and feature engineering to model development, evaluation, and iteration.
-
-More recently, I’ve been focused on Generative AI and LLM-based systems. I’ve built RAG pipelines using LangChain and OpenAI APIs, designed to not just retrieve information but reason over context. I’ve taken these systems beyond notebooks — exposing them via REST APIs, and exploring containerized deployments using Docker.
-
-What excites me most is the engineering side of AI — designing systems that are reliable, scalable, and maintainable. I spend a lot of time thinking about failure cases, latency, and how different components interact in production. That’s where the real complexity is.
-
-I write clean, readable code because I’ve seen what happens when systems grow without discipline. I document decisions, refactor when needed, and aim to build things that others (including future me) can understand and extend.
-
-Outside of work, I experiment a lot — building small tools, exploring agent architectures, and breaking down how real-world AI systems are structured. Curiosity, for me, isn’t optional — it’s part of how I work.
-
-If you’re working on problems where data, ML, and systems engineering come together, I’m always open to connecting.
+I build AI systems that work in the real world - not just models that look good on paper.
+ 
+With hands-on experience across data science, machine learning, and early-stage generative AI, I focus on turning messy, unstructured data into scalable, production-ready solutions. My work spans the full lifecycle: from data preprocessing and feature engineering to model development, evaluation, and deployment.
+ 
+At Infosys, I’ve contributed to building AI-powered applications using LLM APIs and Retrieval-Augmented Generation (RAG) pipelines, enabling intelligent data extraction and decision support. I’ve worked on designing data pipelines, improving model performance through experimentation, and optimizing prompts to enhance output quality and relevance.
+ 
+Previously, as a Data Analyst, I developed strong fundamentals in data analysis, SQL, and dashboarding — translating business problems into actionable insights using Power BI and data modeling techniques.
+ 
+What differentiates me is not just technical skills, but how I think:
+ 
+ I focus on systems, not isolated models 
+ I care about scalability, not just accuracy 
+ I prioritize business impact over theoretical perfection 
+ 
+Core areas:
+ • Machine Learning & AI Systems
+ • Generative AI (LLMs, RAG)
+ • Python, Scikit-learn, Pandas
+ • Data Pipelines & API Development (FastAPI)
+ • SQL, Power BI, Data Modeling
+ 
+I’m continuously pushing toward building end-to-end AI systems that are reliable, efficient, and impactful.
 
 ## 🌱 Currently Learning
 
