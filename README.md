@@ -25,7 +25,7 @@ With hands-on experience across data science, machine learning, and early-stage 
  
 At Infosys, I’ve contributed to building AI-powered applications using LLM APIs and Retrieval-Augmented Generation (RAG) pipelines, enabling intelligent data extraction and decision support. I’ve worked on designing data pipelines, improving model performance through experimentation, and optimizing prompts to enhance output quality and relevance.
  
-Previously, as a Data Analyst, I developed strong fundamentals in data analysis, SQL, and dashboarding — translating business problems into actionable insights using Power BI and data modeling techniques.
+Previously, as a Data Analyst, I developed strong fundamentals in data analysis, SQl and dashboarding — translating business problems into actionable insights using Power BI and data modeling techniques.
  
 What differentiates me is not just technical skills, but how I think:
  
