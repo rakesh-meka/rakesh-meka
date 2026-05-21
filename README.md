@@ -21,7 +21,7 @@ Hi, I’m Rakesh.
 
 I build AI systems that work in the real world - not just models that look good on paper.
  
-With hands-on experience across data science, machine learning, and early-stage generative AI, I focus on turning messy, unstructured data into scalable, production-ready solutions. My work spans the full lifecycle: from data preprocessing and feature engineering to model development, evaluation, and deployment.
+With hands-on experience across data science, machine learning, and early-stage generative AI, I focus on turning messy, unstructured data into scalable, production-ready solutions. My work spans the full lifecycle: from data preprocessing and feature engineering to model development, evaluation and deployment.
  
 At Infosys, I’ve contributed to building AI-powered applications using LLM APIs and Retrieval-Augmented Generation (RAG) pipelines, enabling intelligent data extraction and decision support. I’ve worked on designing data pipelines, improving model performance through experimentation and optimizing prompts to enhance output quality and relevance.
  
