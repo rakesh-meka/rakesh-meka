@@ -1,133 +1,113 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-  <img align="right" alt="ai-coding" width="160" src="https://i.pinimg.com/originals/ff/0c/70/ff0c7036ec6ccc0eafc1021431b17e7f.gif">
+
+# Rakesh Meka
+
+**AI Engineer · ML Engineer · Data Analyst**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Gen+AI;Turning+Data+into+Intelligent+Solutions)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshmeka)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rakeshmeka.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rakesh-meka)
+![Profile Views](https://komarev.com/ghpvc/?username=rakesh-meka&style=flat-square&color=blueviolet)
+
 </div>
 
-###
+---
 
+## 👨‍💻 Who Am I
+
+I'm an **AI/ML Engineer** with real-world experience building **end-to-end intelligent systems** — from raw data to production-ready AI. I've designed **RAG pipelines**, integrated **LLM APIs**, and developed **machine learning models** that drive actual business outcomes.
+
+Currently contributing as a **Data Analyst at HailCabs** (Operations) and completing an **AI/ML internship at Infosys**, where I build LLM-powered applications and intelligent data extraction systems.
+
+> *"I don't just build models — I build systems that create value."*
+
+---
+
+## 🧰 Tech Stack
+
+### 🤖 AI / Generative AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00B4D8?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logoColor=white)
+
+### 🧠 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### 📊 Data & Analytics
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
+
+### ⚙️ Dev & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+| Area | What I Do |
+|---|---|
+| 🤖 **Generative AI & LLMs** | LLM API integration, prompt engineering, RAG pipelines, output optimization |
+| 🧬 **Machine Learning** | End-to-end ML — preprocessing, feature engineering, model training & deployment |
+| 📡 **AI Backends** | FastAPI-based AI microservices, REST APIs, data pipeline architecture |
+| 📊 **Data Analytics** | Business intelligence, SQL analysis, Power BI dashboards, data modeling |
+| 🤝 **AI Agents** | Autonomous agent workflows with LangChain, tool use, multi-step reasoning |
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 **AI Agents & Agentic Workflows** — LangChain Agents, CrewAI, tool-calling
+- 🗃️ **Vector Databases** — Pinecone, ChromaDB, FAISS for semantic search & RAG
+- ☁️ **MLOps** — Model serving, CI/CD for AI, AWS SageMaker
+- 🧠 **Advanced LLM Architectures** — Fine-tuning, RLHF, transformer internals
+
+---
+
+## 💼 Open to Opportunities
+
+> 🎯 Actively looking for **AI Engineer · ML Engineer · Generative AI · Data Scientist** roles
+
+| | |
+|---|---|
+| 🏢 **Target Companies** | AI-first startups, product companies, tech firms |
+| 📍 **Preferred Locations** | Hyderabad · Bangalore · Remote |
+| 🇮🇳 **Base** | India (open to relocation) |
+| ✅ **Availability** | Immediate |
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rakesh-meka&left_color=darkslategrey&right_color=yellowgreen"/>
-</div>
 
-<h1 align="center">Hi 👋, I'm Rakesh Meka</h1>
-
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-
-Hi, I’m Rakesh.
-
-I build AI systems that work in the real world - not just models that look good on paper.
- 
-With hands-on experience across data science, machine learning, and early-stage generative AI, I focus on turning messy, unstructured data into scalable, production-ready solutions. My work spans the full lifecycle: from data preprocessing and feature engineering to model development, evaluation and deployment.
- 
-At Infosys, I’ve contributed to building AI-powered applications using LLM APIs and Retrieval-Augmented Generation (RAG) pipelines, enabling intelligent data extraction and decision support. I’ve worked on designing data pipelines, improving model performance through experimentation and optimizing prompts to enhance output quality and relevance.
- 
-Previously, as a Data Analyst, I developed strong fundamentals in data analysis, SQl and dashboarding — translating business problems into actionable insights using Power BI and data modeling techniques.
- 
-What differentiates me is not just technical skills, but how I think:
- 
- I focus on systems, not isolated models 
- I care about scalability, not just accuracy 
- I prioritize business impact over theoretical perfection 
- 
-Core areas:
- • Machine Learning & AI Systems
- • Generative AI (LLMs, RAG)
- • Python, Scikit-learn, Pandas
- • Data Pipelines & API Development (FastAPI)
- • SQL, Power BI, Data Modeling
- 
-I’m continuously pushing toward building end-to-end AI systems that are reliable, efficient, and impactful.
-
-## 🌱 Currently Learning
-
-- 🧠 Advanced LLM Architectures  
-- 🤖 Autonomous AI Agents  
-- ⚡ System Design for AI Applications  
-
----
-
-## 🤝 Open To Opportunities
-
-💼 Roles: **AI Engineer | Machine Learning Engineer | Data Scientist**  
-📍 Location: India (Open to relocation / remote)
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: rakeshmeka.work@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/rakeshmeka  
-
----
-
-<h3 align="left">🛠️ Languages, Tools & Technologies</h3>
-
-<div align="left">
-
-<!-- Programming & Core -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
-<img width="12"/>
-
-<!-- Data Science -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib"/>
-<img width="12"/>
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn"/>
-<img width="12"/>
-
-<!-- Machine Learning -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-<img width="12"/>
-
-<!-- Analytics & BI -->
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
-<img width="12"/>
-
-<!-- Notebooks & IDE -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-<img width="12"/>
-
-<!-- Version Control -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-<img width="12"/>
-
-<!-- Deployment & OS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-<img width="12"/>
-
-<!-- Cloud -->
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" alt="AWS"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshmeka)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshmeka.work@gmail.com)
 
 </div>
 
+---
 
-###
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+*💡 Building AI solutions &nbsp;|&nbsp; 📈 Data-driven mindset &nbsp;|&nbsp; 🚀 Always learning*
 
-<h4 align="center">
-💡 Building AI solutions | 📈 Data-driven mindset | 🚀 Continuous learner!
-</h4>
+</div>
