@@ -93,9 +93,9 @@ Hands-on projects include a Resume Screener (NLP), Customer Churn Prediction (ML
 | | |
 |---|---|
 | 🏢 **Target Companies** | AI-first startups, product companies, tech firms |
-| 📍 **Preferred Locations** | Hyderabad · Bangalore · Remote |
+| 📍 **Preferred Locations** | Hyderabad · Bangalore · Chennai · Remote |
 | 🇮🇳 **Base** | India (open to relocation) |
-| ✅ **Availability** | Immediate |
+| ✅ **Availability** | 15days or less |
 
 ---
 
