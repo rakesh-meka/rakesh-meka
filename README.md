@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Who Am I
 
-I'm an **AI/ML Engineer** with real-world experience building **end-to-end intelligent systems** — from raw data to production-ready AI. I've designed **RAG pipelines**, integrated **LLM APIs**, and developed **machine learning models** that drive actual business outcomes.
+I'm an **AI/ML Engineer** with real-world experience building **end-to-end intelligent systems** — from raw data to production-ready AI. I've designed **RAG pipelines**, integrated **LLM APIs** and developed **machine learning models** that drive actual business outcomes.
 
 2+ years of experience across data analytics and AI/ML engineering. Built SQL pipelines, Power BI dashboards and owned operational reporting end-to-end as a Data Analyst at HailCabs — a fast-paced mobility startup where data decisions moved fast and ownership was real.
 
