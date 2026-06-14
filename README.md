@@ -21,7 +21,7 @@ I'm an **AI/ML Engineer** with real-world experience building **end-to-end intel
 
 2+ years of experience across data analytics and AI/ML engineering. Built SQL pipelines, Power BI dashboards and owned operational reporting end-to-end as a Data Analyst at HailCabs — a fast-paced mobility startup where data decisions moved fast and ownership was real.
 
-Currently completing a 1-year AI/ML Internship at Infosys, building LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs.
+Currently AI Engineer Intern at Infosys, building LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs.
 
 Hands-on projects include a Resume Screener (NLP), Customer Churn Prediction (ML) and a RAG-based document Q&A system — all built end-to-end.
 
