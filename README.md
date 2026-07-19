@@ -17,11 +17,19 @@
 
 ## 👨‍💻 Who Am I
 
-I'm an **AI/ML Engineer** with real-world experience building **end-to-end intelligent systems** from raw data to production-ready AI. I've designed **RAG pipelines**, integrated **LLM APIs** and developed **machine learning models** that drive actual business outcomes.
+AI/ML practitioner who builds end-to-end intelligent systems - from raw data to production-ready AI.
 
-2+ years of experience across data analytics and AI/ML engineering. Built SQL pipelines, Power BI dashboards and owned operational reporting end-to-end as a Data Analyst at HailCabs a fast-paced mobility startup where data decisions moved fast and ownership was real.
+I've designed RAG pipelines, integrated LLM APIs and built machine learning models that solve real business problems, not just notebook demos.
 
-Currently AI Engineer Intern at Infosys, building LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and APIs.
+2+ years across data analytics and AI/ML engineering:
+
+Data Analyst, HailCabs - a fast-paced mobility startup where data decisions moved fast and ownership was real. Built SQL pipelines and Power BI dashboards, and owned operational reporting end-to-end. Cut manual reporting effort by 60% and improved decision speed by 30%.
+ and AI Engineer Intern, Infosys (1 year, on-site) - built LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs, working in Agile sprints alongside senior engineers.
+
+Selected build: a RAG chatbot (LangChain, FAISS, OpenAI API, Streamlit) that answers queries over medical research and clinical documents using semantic search.
+
+Certified: Infosys GenAI Professional (Advanced), Infosys ML Professional, Infosys Python Associate, Meta Data Analyst Professional Certificate.
+
 ---
 
 ## 🧰 Tech Stack
