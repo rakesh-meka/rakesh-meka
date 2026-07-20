@@ -82,10 +82,10 @@ Certified: Infosys GenAI Professional (Advanced), Infosys ML Professional, Infos
 
 ## 🌱 Currently Exploring
 
-- 🤖 **AI Agents & Agentic Workflows** — LangChain Agents, CrewAI, tool-calling
-- 🗃️ **Vector Databases** — Pinecone, ChromaDB, FAISS for semantic search & RAG
-- ☁️ **MLOps** — Model serving, CI/CD for AI, AWS SageMaker
-- 🧠 **Advanced LLM Architectures** — Fine-tuning, RLHF, transformer internals
+- 🤖 **AI Agents & Agentic Workflows** - LangChain Agents, CrewAI, tool-calling
+- 🗃️ **Vector Databases** - Pinecone, ChromaDB, FAISS for semantic search & RAG
+- ☁️ **MLOps** - Model serving, CI/CD for AI, AWS SageMaker
+- 🧠 **Advanced LLM Architectures** - Fine-tuning, RLHF, transformer internals
 
 ---
 
