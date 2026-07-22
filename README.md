@@ -2,7 +2,7 @@
 
 # Rakesh Meka
 
-**AI Engineer · ML Engineer · Data Analyst**
+**AI/ML Engineer · Data Analyst**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Gen+AI;Turning+Data+into+Intelligent+Solutions)](https://git.io/typing-svg)
 
