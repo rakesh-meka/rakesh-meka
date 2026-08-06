@@ -23,8 +23,7 @@ I've designed RAG pipelines, integrated LLM APIs and built machine learning mode
 
 2+ years across data analytics and AI/ML engineering:
 
-Data Analyst, HailCabs - a fast-paced mobility startup where data decisions moved fast and ownership was real. Built SQL pipelines and Power BI dashboards, and owned operational reporting end-to-end. Cut manual reporting effort by 60% and improved decision speed by 30%.
- and AI Engineer Intern, Infosys (1 year, on-site) - built LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs, working in Agile sprints alongside senior engineers.
+Data Analyst, HailCabs - a fast-paced mobility startup where data decisions moved fast and ownership was real. Built SQL pipelines and Power BI dashboards, and owned operational reporting end-to-end. Cut manual reporting effort by 60% and improved decision speed by 30% and AI Engineer Intern, Infosys (1 year, on-site) - built LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs, working in Agile sprints alongside senior engineers.
 
 Selected build: a RAG chatbot (LangChain, FAISS, OpenAI API, Streamlit) that answers queries over medical research and clinical documents using semantic search.
 
