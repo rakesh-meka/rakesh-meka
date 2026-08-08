@@ -107,6 +107,6 @@ Certified: Infosys GenAI Professional (Advanced), Infosys ML Professional, Infos
 
 <div align="center">
 
-*💡 Building AI solutions &nbsp;|&nbsp; 📈 Data-driven mindset &nbsp;|&nbsp; 🚀 Always learning*
+💡 Building AI solutions &nbsp;|&nbsp; 📈 Data-driven mindset &nbsp;|&nbsp; 🚀 Always learning!
 
 </div>
