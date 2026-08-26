@@ -90,7 +90,7 @@ Certified: Infosys GenAI Professional (Advanced), Infosys ML Professional, Infos
 
 ## 💼 Open to Opportunities
 
-> 🎯 Actively looking for **AI Engineer · ML Engineer · Generative AI · Data Scientist** roles
+> 🎯 Actively looking for **AI/ML Engineer · Gen AI · Data Scientist and Analyst** roles
  
 ---
 
