@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Who Am I
+## 👨‍💻 About me
 
 AI/ML practitioner who builds end-to-end intelligent systems - from raw data to production-ready AI.
 
