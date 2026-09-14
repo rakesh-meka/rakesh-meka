@@ -21,7 +21,7 @@ AI/ML practitioner who builds end-to-end intelligent systems - from raw data to 
 
 I've designed RAG pipelines, integrated LLM APIs and built machine learning models that solve real business problems, not just notebook demos.
 
-2+ years across data analytics and AI
+2+ years experience across data analytics and AI
 
 Data Analyst, HailCabs - a fast-paced mobility startup where data decisions moved fast and ownership was real. Built SQL pipelines and Power BI dashboard and owned operational reporting end-to-end. Cut manual reporting effort by 60% and improved decision speed by 30% and AI Engineer Intern, Infosys Limited (on-site) - built LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs, working in Agile sprints alongside senior engineers.
 
