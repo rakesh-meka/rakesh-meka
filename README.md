@@ -21,9 +21,9 @@ AI/ML practitioner who builds end-to-end intelligent systems - from raw data to 
 
 I've designed RAG pipelines, integrated LLM APIs and built machine learning models that solve real business problems, not just notebook demos.
 
-2+ years experience across data analytics and AI
+3+ years experience across data analytics and AI
 
-Data Analyst, HailCabs - a fast-paced mobility startup where data decisions moved fast and ownership was real. Built SQL pipelines and Power BI dashboard and owned operational reporting end-to-end. Cut manual reporting effort by 60% and improved decision speed by 30% and AI Engineer Intern, Infosys Limited (on-site) - built LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs, working in Agile sprints alongside senior engineers.
+Data Analyst, HailCabs - a fast-paced mobility startup where data decisions moved fast and ownership was real. Built SQL pipelines and Power BI dashboard and owned operational reporting end-to-end. Cut manual reporting effort by 60% and improved decision speed by 30% and AI Engineer Intern, Infosys Limited (on-site) - built LLM-powered applications, RAG pipelines and intelligent data extraction systems using Python, LangChain and OpenAI APIs working in Agile sprints alongside senior engineers.
 
 Certified: Infosys GenAI Professional (Advanced), Infosys ML Professional, Infosys Python Associate, Meta Data Analyst Professional Certificate.
 
@@ -82,7 +82,7 @@ Certified: Infosys GenAI Professional (Advanced), Infosys ML Professional, Infos
 - 🤖 **AI Agents & Agentic Workflows** - LangChain Agents, CrewAI, tool-calling
 - 🗃️ **Vector Databases** - Pinecone, ChromaDB, FAISS for semantic search & RAG
 - ☁️ **MLOps** - Model serving, CI/CD for AI, AWS SageMaker
-- 🧠 **Advanced LLM Architectures** - Fine-tuning, RLHF, transformer internals
+- 🧠 **Advanced LLM Architectures** - Fine-tuning, RLHF, transformers
 
 ---
 
