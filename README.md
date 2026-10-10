@@ -1,8 +1,8 @@
 <div align="center">
 
-# Rakesh Meka
+# RAKESH MEKA
 
-**AI Engineer, GenAI Engineer**
+**AI/ML Engineer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+Pipelines+%7C+Gen+AI;Turning+Data+into+Intelligent+Solutions)](https://git.io/typing-svg)
 
@@ -19,9 +19,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-00B4D8?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logoColor=white
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logoColor=white)
 
-### 📊 Data & Analytics
+### 📊 Data Analytics
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -55,17 +55,11 @@
 
 ## 🌱 Currently Exploring
 
-- 🤖 **AI Agents & Agentic Workflows** - LangChain Agents, CrewAI, tool-calling
+- 🤖 **AI Agents & Agentic Workflows** - LangChain Agents, CrewAI, Multi-Agent Orchestration, tool-calling
 - 🗃️ **Vector Databases** - Pinecone, ChromaDB, FAISS for semantic search & RAG
 - ☁️ **MLOps** - Model serving, CI/CD for AI, AWS SageMaker
 - 🧠 **Advanced LLM Architectures** - Fine-tuning, RLHF, transformers
 
----
-
-## 💼 Open to Opportunities
-
-> 🎯 Actively looking for **AI/ML Engineer · Data Scientist** roles
- 
 ---
 
 ## 📬 Let's Connect
