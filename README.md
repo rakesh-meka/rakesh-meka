@@ -333,18 +333,7 @@ Here are the types of projects that demonstrate practical AI engineering skills:
 - Add human approval steps for sensitive actions.
 - Trace and evaluate agent execution paths.
 
-### 🧠 3. Enterprise Knowledge Assistant
-
-**Tech Stack:** Python · LangChain · Vector Database · FastAPI · Redis · Docker
-
-- Build a conversational assistant over internal knowledge sources.
-- Implement access-aware retrieval and metadata filtering.
-- Maintain conversation history and contextual follow-up queries.
-- Support document citations and evidence-based answers.
-- Optimize retrieval latency and response generation.
-- Add authentication, logging and quality evaluation.
-
-### ⚙️ 4. Production-Ready AI API Platform
+### ⚙️ 3. Production-Ready AI API Platform
 
 **Tech Stack:** FastAPI · Pydantic · PostgreSQL · Redis · Docker · GitHub Actions
 
