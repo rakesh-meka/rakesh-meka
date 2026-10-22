@@ -106,21 +106,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 
 **Core Concepts:** Supervised and unsupervised learning, regression, classification, clustering, feature engineering, exploratory data analysis, cross-validation, hyperparameter tuning, model evaluation, neural networks, transfer learning and model inference.
 
-### 🧠 Fine-Tuning & Model Optimization
-
-![PEFT](https://img.shields.io/badge/PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LoRA](https://img.shields.io/badge/LoRA-6A5ACD?style=flat-square&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
-- Supervised fine-tuning (SFT) fundamentals
-- LoRA and QLoRA
-- Parameter-efficient fine-tuning using PEFT
-- Quantization and inference optimization
-- Hugging Face Trainer
-- Dataset preparation and instruction tuning
-- Model benchmarking and latency analysis
-- GPU memory optimization fundamentals
-
 ### ⚙️ Backend Development & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
