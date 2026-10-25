@@ -194,8 +194,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 
-Additional tools: Poetry, uv, pip, virtual environments, Ruff, Black, pre-commit, Make, JupyterLab and environment-based configuration.
-
 ---
 
 ## 🚀 What I Build
@@ -204,8 +202,6 @@ Additional tools: Poetry, uv, pip, virtual environments, Ruff, Black, pre-commit
 |---|---|
 | 🧠 **LLM Applications** | Build intelligent applications with commercial and open-source language models |
 | 🔍 **Advanced RAG Systems** | Design ingestion pipelines with hybrid retrieval, reranking and context optimization |
-| 🤖 **AI Agents** | Develop tool-using agents capable of planning and executing multi-step workflows |
-| 🤝 **Multi-Agent Systems** | Orchestrate specialized agents for research, analysis and task delegation |
 | 📚 **Knowledge Assistants** | Build document assistants with citations, semantic search and grounded responses |
 | ⚙️ **AI Backend Services** | Expose AI capabilities through secure APIs and asynchronous processing |
 | 🧪 **Model Adaptation** | Explore fine-tuning, quantization and inference optimization |
