@@ -1,6 +1,6 @@
  <div align="center">
 
-# RAKESH MEKA
+# Rakesh Meka 
 
 **AI Engineer | Generative AI | LLMs | Agentic AI Systems**
 
@@ -18,19 +18,11 @@
 
 AI Engineer focused on designing and building intelligent applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) and Agentic AI.
 
-I work across the AI application lifecycle — from data ingestion and document processing to retrieval optimization, agent orchestration, backend API development and deployment. My focus is on building reliable AI systems that solve real-world problems rather than simply integrating an LLM into an application.
-
-- 🧠 **Generative AI:** LLM applications, prompt engineering, structured outputs and model integrations.
-- 🔎 **Advanced RAG:** Hybrid search, reranking, query transformation, contextual retrieval and grounded generation.
-- 🤖 **Agentic AI:** Tool calling, stateful workflows, planning and autonomous task execution.
-- 🤝 **Multi-Agent Systems:** Specialized agents, task delegation, collaboration and workflow orchestration.
-- ⚙️ **AI Backend Engineering:** Production-oriented APIs, asynchronous processing, authentication and database integration.
-- 📊 **Machine Learning:** Data preprocessing, feature engineering, model training and evaluation.
-- 🚀 **Production AI:** Containerization, observability, evaluation pipelines and scalable deployment.
+I work across the AI application lifecycle from data ingestion and document processing to retrieval optimization, agent orchestration, backend API development and deployment. My focus is on building reliable AI systems that solve real-world problems rather than simply integrating an LLM into an application.
 
 ---
 
-## 🧰 Technical Skills & Tech Stack
+## 🧰 Tech Stack
 
 ### 🤖 Generative AI & Large Language Models
 
@@ -42,9 +34,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Core Concepts:** LLM inference, tokenization, embeddings, context windows, attention mechanisms, transformer architecture, sampling parameters, prompt engineering, few-shot prompting, structured generation, JSON outputs, function calling and model selection.
-
-**LLM Providers & Models:** OpenAI, Anthropic Claude, Google Gemini, Groq and open-source models such as Llama, Qwen and Mistral.
 
 ### 🔍 Advanced RAG & Knowledge Retrieval
 
@@ -57,20 +46,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**RAG Engineering:**
-- Document ingestion, parsing, cleaning and metadata extraction
-- Chunking strategies, semantic chunking and contextual chunking
-- Dense retrieval, sparse retrieval and hybrid search
-- Embedding models, vector indexing and similarity search
-- Metadata filtering and query expansion
-- Multi-query retrieval and query rewriting
-- Parent-child retrieval and hierarchical indexing
-- Contextual compression and reranking
-- Cross-encoder rerankers and retrieval optimization
-- Corrective RAG (CRAG), Adaptive RAG and Self-RAG concepts
-- GraphRAG and knowledge graph-based retrieval
-- Grounding, faithfulness, citation generation and hallucination reduction
-- Retrieval evaluation, context relevance and answer quality measurement
 
 ### 🤖 AI Agents & Multi-Agent Systems
 
@@ -80,19 +55,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![OpenAI Agents](https://img.shields.io/badge/OpenAI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-555555?style=flat-square&logoColor=white)
 
-**Agent Engineering:**
-- Tool calling and function execution
-- Agent planning, routing and task decomposition
-- Stateful workflows and checkpointing
-- Short-term and long-term agent memory
-- Human-in-the-loop approvals
-- Multi-step reasoning and task execution
-- Multi-agent collaboration and delegation
-- Supervisor, router and hierarchical agent patterns
-- Reflection, retries and error recovery
-- MCP-based tool and context integration
-- Agent permissions, guardrails and execution limits
-- Workflow orchestration and deterministic control flows
 
 ### 🧪 Machine Learning & Deep Learning
 
@@ -104,8 +66,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 
-**Core Concepts:** Supervised and unsupervised learning, regression, classification, clustering, feature engineering, exploratory data analysis, cross-validation, hyperparameter tuning, model evaluation, neural networks, transfer learning and model inference.
-
 ### ⚙️ Backend Development & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -113,19 +73,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square&logoColor=white)
-
-- Python programming and object-oriented programming
-- FastAPI and RESTful API development
-- API authentication and authorization
-- OAuth 2.0 and JWT fundamentals
-- Request validation and response serialization
-- Async programming and background tasks
-- Streaming responses and Server-Sent Events (SSE)
-- WebSockets and real-time communication
-- API versioning, pagination and rate limiting
-- Error handling, logging and API documentation
-- Microservices fundamentals and service integration
-- Unit testing and integration testing with Pytest
 
 ### 🗄️ Databases & Data Engineering
 
@@ -135,15 +82,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-- SQL queries, joins, indexing and query optimization
-- Relational and document-oriented databases
-- Database schema design and data modeling
-- SQLAlchemy and ORM fundamentals
-- Redis caching and session management
-- Data ingestion and ETL pipelines
-- Batch and asynchronous processing
-- Apache Kafka fundamentals
-- Data validation and pipeline reliability
 
 ### ☁️ Cloud, DevOps & Deployment
 
@@ -155,17 +93,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Docker images, containers and Docker Compose
-- CI/CD pipelines and automated testing
-- Git workflows and version control
-- Linux command-line fundamentals
-- AWS S3, EC2, IAM and cloud deployment
-- Azure AI services and cloud fundamentals
-- Kubernetes and container orchestration fundamentals
-- Environment configuration and secrets management
-- Application deployment and service monitoring
-- Model serving and inference endpoints
-- Cloud logging, reliability and scalability
 
 ### 📈 LLMOps, Evaluation & Observability
 
@@ -175,16 +102,6 @@ I work across the AI application lifecycle — from data ingestion and document 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-- LLM tracing and debugging
-- Prompt and model versioning
-- RAG evaluation and retrieval benchmarking
-- LLM-as-a-judge evaluation
-- Faithfulness, answer relevance and context precision
-- Latency, token usage and cost tracking
-- Production error monitoring and observability
-- Regression testing for prompts and AI workflows
-- Guardrails, output validation and safety checks
-- Experiment tracking and reproducible evaluations
 
 ### 🖥️ Development Tools & Productivity
 
