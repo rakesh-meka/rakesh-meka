@@ -16,9 +16,17 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer focused on designing and building intelligent applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) and Agentic AI.
+Hi, I'm **Rakesh Meka**, an aspiring AI Engineer with **2+ years of professional experience** across technology, analytics and AI-related work.
 
-I work across the AI application lifecycle from data ingestion and document processing to retrieval optimization, agent orchestration, backend API development and deployment. My focus is on building reliable AI systems that solve real-world problems rather than simply integrating an LLM into an application.
+I'm currently focused on upskilling in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI and Backend Development**. I enjoy exploring new technologies and applying what I learn to build practical projects and solve real-world problems.
+
+My technical journey includes working with Python, SQL, LLM APIs, LangChain, vector databases, AI agents and backend frameworks. I'm also continuously expanding my knowledge of advanced AI concepts and tools through hands-on practice and project development.
+
+I believe in learning by doing rather than just learning theory. I'm a practical-minded person, a quick learner and someone who enjoys taking on new challenges. I make it a habit to learn something new every day and continuously improve my technical skills.
+
+**Currently looking for an opportunity to restart my professional journey in AI/ML or Generative AI where I can contribute, learn from experienced teams and grow as an engineer.**
+
+*Always curious. Always learning. Always building.* 🚀
 
 ---
 
