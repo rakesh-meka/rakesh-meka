@@ -24,8 +24,6 @@ My technical journey includes working with Python, SQL, LLM APIs, LangChain, vec
 
 I believe in learning by doing rather than just learning theory. I'm a practical-minded person, a quick learner and someone who enjoys taking on new challenges. I make it a habit to learn something new every day and continuously improve my technical skills.
 
-**Currently looking for an opportunity to restart my professional journey in AI/ML or Generative AI where I can contribute, learn from experienced teams and grow as an engineer.**
-
 *Always curious. Always learning. Always building.* 🚀
 
 ---
