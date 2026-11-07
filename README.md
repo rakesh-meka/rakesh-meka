@@ -127,8 +127,6 @@ I believe in learning by doing rather than just learning theory. I'm a practical
 | 🔍 **Advanced RAG Systems** | Design ingestion pipelines with hybrid retrieval, reranking and context optimization |
 | 📚 **Knowledge Assistants** | Build document assistants with citations, semantic search and grounded responses |
 | ⚙️ **AI Backend Services** | Expose AI capabilities through secure APIs and asynchronous processing |
-| 🧪 **Model Adaptation** | Explore fine-tuning, quantization and inference optimization |
-| 📊 **ML Solutions** | Develop end-to-end machine learning pipelines from data preparation to evaluation |
 | ☁️ **AI Deployment** | Containerize and deploy AI applications with monitoring and CI/CD |
 | 📈 **AI Evaluation** | Measure retrieval quality, response faithfulness, latency and inference costs |
 
